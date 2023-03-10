@@ -1,0 +1,9 @@
+{
+  "Formatting": {
+    "Localize":  false,
+    "Number": {
+      "Format": "n4",
+      "Precision": 3
+    }
+  }
+}
